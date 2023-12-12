@@ -8,6 +8,7 @@
 
 Cadastrar, copiar, colar, calcular, era totalmente feito manualmente.<br/>
 <p>Tela inicial para o cadastro das espécies, abas laterais para acessar os diferentes menus.</p>
+<p>A aba lateral direita, é um preview das dados inseridos que serão enviados para a planilha de processamento.</p>
 <img src="https://github.com/diogo-luiz/formulario_bentos/assets/110983855/67590dd7-8c08-47ec-b286-208b563b009a">
 <p>Tela para adicionar uma nova espécie</p>
 <img src="https://github.com/diogo-luiz/formulario_bentos/assets/110983855/038f6d84-1164-4ddd-a9c2-f5e6748cd94e">
