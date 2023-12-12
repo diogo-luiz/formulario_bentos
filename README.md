@@ -4,7 +4,7 @@
 
 ### Cadastro e controle da ocorrência de espécies em diferentes pontos do complexo estuarino de paranaguá
 
-<p align="center">O sistema viabiliza a automação de tarefas utilizando macros e códigos no excel.<p/>
+<p>O sistema viabiliza a automação de tarefas utilizando macros e códigos no excel.<p/>
 
 Cadastrar, copiar, colar, calcular, era totalmente feito manualmente.<br/>
 <p>Tela inicial para o cadastro das espécies, abas laterais para acessar os diferentes menus.</p>
