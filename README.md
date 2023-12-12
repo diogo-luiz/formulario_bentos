@@ -4,7 +4,7 @@
 
 ### Cadastro e controle da ocorrência de espécies em diferentes pontos do complexo estuarino de paranaguá
 
-<p>O sistema viabiliza a automação de tarefas utilizando macros e códigos no excel. O processo de cadastro e manipulação, eram feitos de forma manual. Sem o formulário, o processo de cadastro e manipulação levaria em média 5 horas, com o formulário, este número diminui para apenas 10 minutos, um ganho de 1.500%<p/>
+<p>O sistema viabiliza a automação de tarefas utilizando macros e códigos no excel. O processo de cadastro e manipulação, eram feitos de forma manual. Sem o formulário, o processo de cadastro e manipulação levaria em média 5 horas, com o formulário, este número diminui para apenas 20 minutos, um ganho de 1.500%<p/>
 
 <p>Tela inicial para o cadastro das espécies, abas laterais para acessar os diferentes menus.</p>
 <p>A aba lateral direita, é um preview das dados inseridos que serão enviados para a planilha de processamento.</p>
