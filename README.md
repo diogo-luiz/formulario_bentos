@@ -13,4 +13,5 @@
 <img src="https://github.com/diogo-luiz/formulario_bentos/assets/110983855/038f6d84-1164-4ddd-a9c2-f5e6748cd94e">
 <p>Tela para remover e mesclar espécies</p>
 <p>A função de mesclar, junta os dados de duas espécies com nomes iguais ou, caso necessário mudar o grande grupo de uma espécie, também é feita a alteração por esse menu. </p>
+<p>Função de separar e somar grandes grupos</p>
 <img src="https://github.com/diogo-luiz/formulario_bentos/assets/110983855/5509440f-4907-4fd6-8bf2-8875b7694cdd">
